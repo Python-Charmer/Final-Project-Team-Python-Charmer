@@ -1,26 +1,17 @@
 
 # Team Python Charmers 
-## Phase 1   : Due Nov 18th
-
-### Load Data:
-
-* **Responsible** Naimesh Chaudhari
-* **Due Date**    11/04/2018
+# Phase 1   : Due Nov 18th
 
 
+### Naimesh Chaudhari
+* **GitHub Setup**
+* **Load Data**
+### Mallik Challa
+* **Impute missing values**
+* **Calculate Summary Metrics**
+### Time Mayer
+* **Plot Graphs**
+* **Columns to standardize**
 
 
-### Impute Missing Values
-
-* **Responsible** Mallik Challa
-* **Due Date**    11/04/2018
-
-
-
-
-### Calcualte Metrics & Plot
-
-
-* **Responsible** Time Mayer
-* **Due Date**    11/04/2018
 
