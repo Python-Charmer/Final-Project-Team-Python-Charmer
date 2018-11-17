@@ -3,6 +3,8 @@
 # Phase 1   : Due Nov 18th
 
 
+## Team Leader: Naimesh Chaudhari
+
 ### Naimesh Chaudhari
 * **GitHub Setup**
 * **Load Data**
