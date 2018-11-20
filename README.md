@@ -34,17 +34,6 @@ Example for Readme file on github
 
 # Phase 1
 
-Name 1: contribution....
-
-Name 2: contribution....
-
-Name 3: contribution....
-
-# Phase 2
-
-# Phase 3
-
- 
 
 Detailed Instructions and Additional Help with tasks:
 
@@ -72,5 +61,45 @@ Make sure to import using the correct path with your dataset in data folder. Use
 
  
 
-Let us know if you have any questions related to 1) instructions, 2) submission, 3) grading. We will not be answering your questions about specific coding and errors. Only general questions will be answered.
+Let us know if you have any questions related to 1) instructions, 2) submission, 3) grading. We will not be answering your questions about specific coding and errors. Only general questions will be answered..
+
+# Phase 2
+
+# Phase 3
+Phase 2 Instructions
+ 
+
+In the second phase you will be implementing k-means algorithm (40pts):
+Use KMeans algorithm (do not use column CLASS) - 10pts
+continue working with cleaned breast cancer data from the phase 1
+use only columns A2-A10
+import KMeans - use sklearn.cluster
+create KMeans model for n_cluster = 4
+fit model to your data
+calculate centroids
+print centroids - you should have a matrix with 4 row (4 clusters) and 9  columns (for each A column)
+Find the optimal number of clusters 10 pts
+calculate inertia:
+create a range from 1 to 15 or more,
+create an empty list for inertias values
+use for loop to calculate KMeans for each values
+plot range and inertia
+Add title, ylabel, xlabel
+specify the optimal number of clusters based on the inertia plot
+Revise data variation 10pts
+apply standard deviation function for columns A2-A10
+plot standard deviation values - select a graphic that could display all NINE values [do not use histogram], add title, legend, ylabel, xlabel. Can you capture how wide or narrow is the variation in each column?
+describe which features (aka columns) have a lot of data variation
+Implement normalization 8pts
+import make_pipeline - use sklearn.pipeline
+import StandardScaler
+review datacamp as needed on how to create a pipeline
+use the n_cluster based on the optimal number you have identified from Inertia
+find centroids and print them
+Update your github code 2pts
+Update your notebook
+Update your readme file with contribution by each member for phase 2
+Submit updated version of notebook and your link to github into Phase 2 assignment
+ 
+
 
