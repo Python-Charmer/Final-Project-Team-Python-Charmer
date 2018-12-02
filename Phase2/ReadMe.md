@@ -17,7 +17,7 @@
 # Phase 2   : Due Dec 2nd
 
 ### Naimesh Chaudhari
-* **Use K-Means with 4 cLusters**
+* **Use K-Means with 4 clusters**
 * **Find optimal K**
 * **Prep final version for github**
 ### Mallik Challa
