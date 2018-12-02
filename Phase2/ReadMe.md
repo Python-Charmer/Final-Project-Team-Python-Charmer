@@ -1,8 +1,20 @@
 # Team Python Charmers 
-# Phase 2   : Due Dec 2nd
-
-
 ## Team Leader: Naimesh Chaudhari
+
+
+# Phase 1   : Due Nov 18th
+
+### Naimesh Chaudhari
+* **GitHub Setup**
+* **Load Data**
+### Mallik Challa
+* **Impute missing values**
+* **Calculate Summary Metrics**
+### Time Mayer
+* **Plot Graphs**
+* **Columns to standardize**
+
+# Phase 2   : Due Dec 2nd
 
 ### Naimesh Chaudhari
 * **Use K-Means with 4 cLusters**
