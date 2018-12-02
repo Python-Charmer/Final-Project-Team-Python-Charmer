@@ -1,16 +1,18 @@
 # Team Python Charmers 
-# Phase 1   : Due Dec 2nd
+# Phase 2   : Due Dec 2nd
 
 
 ## Team Leader: Naimesh Chaudhari
 
 ### Naimesh Chaudhari
-* **Use K-Means of 4 CLusters**
-* **Find Optimal K**
-* **Prep Final Version for GitHUb**
+* **Use K-Means with 4 cLusters**
+* **Find optimal K**
+* **Prep final version for github**
 ### Mallik Challa
-* **Predict/Cross Tabulate**
-* **Find Cluster Centers**
+* **Find cluster centers for K = 4 & K = 2**
+* **Create box plot of data variation**
+* **Predict/Cross tabulate labels**
 ### Time Mayer
-* **Create Box Plot of data variation**
-* **Kmeans on 2 Cluster**
+* **Create pipeline for normilization**
+* **Add 2 cluster Kmeans in pipeline**
+* **Validate final github version**
